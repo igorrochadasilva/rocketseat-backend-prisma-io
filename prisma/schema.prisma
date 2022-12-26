@@ -25,6 +25,5 @@ model Teachers {
   name   String   @unique
   course Courses?
 
-
   @@map("teachers")
 }
