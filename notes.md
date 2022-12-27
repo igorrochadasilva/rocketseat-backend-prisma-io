@@ -86,5 +86,6 @@
 **Criar tabela com um para muitos**
 
 - Criando tabela autor e livros, e referencia entre elas
+- Gerado tabela `yarn prisma migrate dev`
 
 **Inserir dados em tabla de um para muitos**
