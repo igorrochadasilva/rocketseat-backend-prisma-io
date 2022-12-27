@@ -80,3 +80,11 @@
 
 - Como fazer busca dentro da tabela e fazer retorno das informações com
 - Criado `findRelation` utilizando `findMany` para busca de registros baseado nos professores
+
+## Relacionamento One to Many
+
+**Criar tabela com um para muitos**
+
+- Criando tabela autor e livros, e referencia entre elas
+
+**Inserir dados em tabla de um para muitos**
