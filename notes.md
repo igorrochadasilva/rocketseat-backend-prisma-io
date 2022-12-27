@@ -89,3 +89,7 @@
 - Gerado tabela `yarn prisma migrate dev`
 
 **Inserir dados em tabla de um para muitos**
+
+- Inserido registro com `create` do prisma
+- Inserindo multiplos registros de livros para um mesmo autor utilizando `createMany`
+- Inserindo livro baseado no autor que está atrelado "Mutio massa = D"
