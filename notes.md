@@ -102,6 +102,10 @@
 
 **Inserindo dados em tabela com relacionamento muito para muitos**
 
+- Criado `create` para inserção de registro de curso baseado em id
+- Criado `createManytoMany` para inserção de registro baseado no id de cuso e module
+- Criado `createToZero` que faz inserção de registro que não tenha nem curso nem modules.
+
 **Realizar busca em relacionamento muito para muitos**
 
 **Remover item na tabela**
