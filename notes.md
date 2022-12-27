@@ -108,4 +108,8 @@
 
 **Realizar busca em relacionamento muito para muitos**
 
+- Criado `findByCourse` que irá buscar item do curso por id e trazer todos os modulos atrelados a esse curso
+
+- Criado `findByRelation` que irá buscar cursos e modulos através dos relacionamentos do `courseModule`
+
 **Remover item na tabela**
