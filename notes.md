@@ -80,3 +80,28 @@
 
 - Como fazer busca dentro da tabela e fazer retorno das informações com
 - Criado `findRelation` utilizando `findMany` para busca de registros baseado nos professores
+
+## Relacionamento One to Many
+
+**Criar tabela com um para muitos**
+
+- Criando tabela autor e livros, e referencia entre elas
+- Gerado tabela `yarn prisma migrate dev`
+
+**Inserir dados em tabla de um para muitos**
+
+- Inserido registro com `create` do prisma
+- Inserindo multiplos registros de livros para um mesmo autor utilizando `createMany`
+- Inserindo livro baseado no autor que está atrelado "Mutio massa = D"
+
+## Relacionamento Many to Many
+
+**Criar tabela com relacionamento muitos para muitos**
+
+- Criando tabela `courses_module` relacionada com as tabelas `courses` e `modules`
+
+**Inserindo dados em tabela com relacionamento muito para muitos**
+
+**Realizar busca em relacionamento muito para muitos**
+
+**Remover item na tabela**
