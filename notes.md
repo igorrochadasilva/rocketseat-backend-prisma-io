@@ -125,4 +125,6 @@
 
 **Trabalhando com pagination**
 
+- Utilizando o `skip` e `take` para fazer paginação de um retorno de array.
+
 **Trabalhando com queryRaw**

@@ -6,8 +6,8 @@ async function main() {
   const result = await prisma.courses.create({
     data: {
       duration: 200,
-      name: "Curso de Elixir",
-      description: "Curso excelente de Elixir Rafa Camarda",
+      name: "Curso de next",
+      description: "Curso excelente de next Jose Camarda",
     },
   });
 
