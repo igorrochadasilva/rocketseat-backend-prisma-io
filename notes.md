@@ -128,3 +128,5 @@
 - Utilizando o `skip` e `take` para fazer paginação de um retorno de array.
 
 **Trabalhando com queryRaw**
+
+- Utilizando o `queryRaw` para utilizar `sql` para consultas
