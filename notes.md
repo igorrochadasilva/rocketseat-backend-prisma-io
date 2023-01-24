@@ -130,3 +130,11 @@
 **Trabalhando com queryRaw**
 
 - Utilizando o `queryRaw` para utilizar `sql` para consultas
+
+## Importação de banco de dados
+
+**Importando banco de dados**
+
+- Pegar banco de dados já existente e importar para o Prisma
+- Passar a `url` do banco de dados no `.env`
+- Rodar o comando `yarn prisma db pull` para trazer as informações do db
