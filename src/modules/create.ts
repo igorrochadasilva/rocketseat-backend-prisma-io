@@ -11,7 +11,7 @@ async function main() {
         create: {
           course: {
             connect: {
-              id: "e27d03d2-f5ca-4f0c-908e-1d1bdda7a83e",
+              id: "31629ef6-3bf6-4662-ba4c-db1656c340c0",
             },
           },
         },

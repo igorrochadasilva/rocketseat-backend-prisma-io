@@ -114,3 +114,15 @@
 **Remover item na tabela**
 
 - Criado `delete` e passando id de item de tabela de relacionamento para deletar registro
+
+## Filters
+
+**Trabalhando com filtering e sorting**
+
+- Utilizando o `findMany` para busca de cursos
+- Passando o parametro `mode: insensitive` para filter cursos indenpende das palavras estarem maisculas ou minusculas
+- Utilizando o parametro `OR` e `AND` para incrementar a busca de cursos.
+
+**Trabalhando com pagination**
+
+**Trabalhando com queryRaw**
